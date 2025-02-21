@@ -10,4 +10,4 @@ A dynamic event booking system built for the Web Developer Internship Assignment
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/EventBookingSystem.git
+   git clone https://github.com/ShreyanshJain105/Dynamic-Event-Booking-System.git
